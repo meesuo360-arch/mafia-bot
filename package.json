@@ -1,0 +1,24 @@
+{
+  "name": "store-system-bot",
+  "version": "1.0.0",
+  "description": "UnCharted Store Discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.19.2",
+    "@napi-rs/canvas": "^1.0.2",
+    "@whiskeysockets/baileys": "^7.0.0-rc13",
+    "archiver": "^8.0.0",
+    "canvas": "^3.2.3",
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.26.5",
+    "dotenv": "^16.4.5",
+    "figlet": "^1.11.3",
+    "libsodium-wrappers": "^0.8.4",
+    "pino": "^10.3.1",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
